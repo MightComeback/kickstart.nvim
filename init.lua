@@ -705,6 +705,19 @@ require('lazy').setup({
     end,
   },
 
+  -- ThePrimeagen inspired colorscheme
+  -- {
+  --   'vague2k/vague.nvim',
+  --   name = 'vague',
+  --   lazy = false,
+  --   priority = 1000,
+  --   config = function()
+  --     require('vague').setup {
+  --       vim.cmd 'colorscheme vague',
+  --     }
+  --   end,
+  -- },
+
   -- Copilot
   {
     {
